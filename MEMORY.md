@@ -1,0 +1,1 @@
+Startup sequence: WORKFLOW_AUTO.md — run by Librarian on boot and every 48h.
