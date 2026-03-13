@@ -1,0 +1,127 @@
+### **DRAFT: FACILITATOR INDEPENDENT CONTRACTOR AGREEMENT**
+
+**THIS AGREEMENT** is made on **[Date]**
+
+**BETWEEN:**
+
+**[Your Company Name Ltd.]**, a company registered in Ghana with its registered office at **[Your Company Address]** (hereinafter referred to as "**the Company**").
+
+**AND**
+
+**[Facilitator's Full Name]**, of **[Facilitator's Address]** (hereinafter referred to as "**the Contractor**").
+
+**BACKGROUND:**
+
+The Company is engaged in the business of providing robotics and coding education. The Company wishes to engage the services of the Contractor as a facilitator for its educational programmes, and the Contractor agrees to provide such services, on the terms and conditions set forth in this Agreement.
+
+**IT IS HEREBY AGREED AS FOLLOWS:**
+
+**1. INTERPRETATION**
+The terms "Commission," "Equipment," "Operations Manual," "Oversight Manager," "Session," and "Zobase System" shall have the meanings ascribed to them in this Agreement and its Annexures.
+
+**2. STATUS AS INDEPENDENT CONTRACTOR**
+2.1. The Contractor is engaged as an independent contractor. This Agreement shall not be construed as creating a relationship of employer-employee, partnership, or joint venture between the Parties.
+2.2. The Contractor acknowledges that they are solely responsible for their own income tax, National Health Insurance, and other statutory obligations, and are not entitled to any benefits provided by the Company to its employees, including but not limited to contributions under the Social Security and National Insurance Trust (SSNIT).
+2.3. The Contractor has no authority to bind the Company in any way without prior written consent.
+
+**3. ROLES, RESPONSIBILITIES & COMMISSION**
+3.1. **Duties:** The Contractor shall:
+    3.1.1. Facilitate robotics and coding Sessions for students in accordance with the curriculum, schedules, and procedures detailed in the Company's Operations Manual (Annexure A).
+    3.1.2. Adhere strictly to the equipment management, check-in, and check-out procedures ("The John Protocol") as directed by the Oversight Manager.
+    3.1.3. Represent the Company professionally at all times.
+3.2. **Commission Structure:**
+    3.2.1. The Contractor's remuneration shall be solely on a commission-only basis.
+    3.2.2. The commission rate shall be **[e.g., 40%]** of the net fee received by the Company for each Session that is successfully completed by the Contractor.
+    3.2.3. A Session is deemed "successfully completed" only upon the Oversight Manager's confirmation that: (i) the Session was delivered; (ii) all equipment was returned undamaged; and (iii) the post-session checklist has been signed.
+3.3. **Oversight:** The Contractor shall report to and comply with all reasonable instructions from the Company's designated Oversight Manager ("John") regarding operational procedures.
+
+**4. EQUIPMENT ACCOUNTABILITY & INTELLECTUAL PROPERTY**
+4.1. The Contractor is financially accountable for any loss or damage to Company Equipment assigned to them. The Contractor agrees to reimburse the Company the full replacement value for any lost or damaged equipment, which may be deducted from accrued commissions.
+4.2. All curriculum, training materials, processes, and any other intellectual property created by the Contractor in the course of, or related to, this Agreement shall be the sole and exclusive property of the Company. The Contractor hereby assigns all rights, title, and interest in such intellectual property to the Company.
+
+
+5. Offsite Mismanagement & Misuse
+
+5.1. The Contractor shall not use the Company's Equipment for any purpose other than the performance of the Services at the locations expressly prescribed by the Company in writing ("Prescribed Sites"). Any use of Equipment for personal projects, non-approved sessions, or at any location other than a Prescribed Site is strictly prohibited and shall constitute material misuse.
+
+5.2. The Contractor assumes full financial responsibility for any loss, damage, or repair costs arising from misuse, improper handling, or use of the Equipment at a non-Prescribed Site. The Company is authorized to deduct the full replacement or repair value from the Contractor's pending commissions.
+
+5.3. Any breach of this clause shall be deemed a material breach of this Agreement, entitling the Company to terminate the Agreement immediately and pursue any and all available legal remedies
+
+
+
+6. Training Obligation (Main Facilitator)
+
+6.1. The Contractor, in their capacity as Main Facilitator, agrees to provide practical training to all new facilitators engaged by the Company. This training shall ensure new personnel are fully equipped to perform their duties competently and in compliance with the Company's curriculum and operational protocols.
+
+6.2. The training shall be tailored to the specific roles and responsibilities of a facilitator and shall include, but not be limited to, instruction on:
+(a) The Company's prescribed curriculum and teaching methodologies;
+(b) Equipment management, including the "John Protocol" for check-in and check-out procedures;
+(c) All operational and safety procedures as outlined in the Company's Operations Manual.
+
+6.3. The Main Facilitator shall perform these training duties at the Company's reasonable request and as an integral part of the Services rendered under this Agreement, for which the Main Facilitator's standard commission shall be the sole compensation.
+
+
+
+
+**7. SCHEDULE OF FINES**
+The Company may impose the following fines for operational breaches, which shall be deducted from the Contractor's commission:
+
+| Breach | Fine Amount |
+| :--- | :--- |
+| Failure to clock in/out on the Zobase System for a Session without prior authorization. | [e.g., ₵50] |
+| Failure to complete the pre- or post-session equipment checklist. | [e.g., ₵75] |
+| Unauthorized use of Company Equipment or deviation from the prescribed curriculum. | [e.g., ₵100] |
+| Unauthorized use of a Session venue. | [e.g., ₵200] |
+
+**8. CONFIDENTIALITY & NON-SOLICITATION**
+8.1. The Contractor shall not, during or after the termination of this Agreement, disclose any confidential information of the Company, including but not limited to business strategies, client lists, pricing, and curriculum.
+8.2. **Non-Solicitation:** The Contractor shall not, for a period of **[e.g., 12 (twelve)]** months following the termination of this Agreement, directly or indirectly solicit or entice away any client, student, or employee of the Company.
+
+**9. EXCLUSIVITY**
+During the term of this Agreement, the Contractor shall not provide services, whether as an employee or contractor, to any other business that offers competing robotics or coding education programmes in Ghana without the prior written consent of the Company.
+
+**10. TERMINATION**
+10.1. Either party may terminate this Agreement by providing **[e.g., 14 (fourteen)]** days' written notice to the other.
+10.2. The Company may terminate this Agreement immediately for cause if the Contractor commits a material breach of this Agreement, including but not limited to gross misconduct, repeated operational breaches, or theft of Company property.
+
+**11. GOVERNING LAW**
+This Agreement shall be governed by and construed in accordance with the laws of Ghana.
+
+**IN WITNESS WHEREOF,** the parties have executed this Agreement as of the date first above written.
+
+**SIGNED for and on behalf of**
+**[YOUR COMPANY NAME LTD.]**
+____________________________________
+**Signature**
+**Name: [Your Name/John's Name]**
+**Title: Director**
+
+**SIGNED by the CONTRACTOR**
+____________________________________
+**Signature**
+**Name: [Facilitator's Name]**
+**Date:**
+
+---
+
+### **ANNEXURE A: REFERENCE TO OPERATIONS MANUAL & THE "JOHN PROTOCOL"**
+
+The Contractor is bound by the procedures and policies set forth in the Company's internal Operations Manual, which includes but is not limited to:
+
+1.  **Equipment Management ("The John Protocol"):** The mandatory process for checking out, verifying on-site, and checking in all Company equipment before and after every Session, as supervised by the Oversight Manager.
+2.  **Curriculum & Session Delivery:** The prescribed modules, teaching methods, and learning outcomes for all Sessions.
+3.  **Use of Zobase System:** The mandatory process for clocking in and out to record work hours and Session completion.
+
+*The latest version of the Operations Manual will be provided to the Contractor separately. The Company reserves the right to update the Manual, and the Contractor will be bound by such updates upon notification.*
+
+---
+
+### **Key Points for Your Solicitor:**
+
+*   **Ghana Labour Act Compliance:** The preamble and Clause 2 are deliberately crafted to distinguish this from an employment relationship under Act 651. Please verify this provides sufficient protection.
+*   **Annexure Strategy:** Using an "Annexure A" for the Operations Manual allows you to update operational details (like specific checklists) without needing to amend the core contract every time.
+*   **Enforceability of Fines:** Clause 5 frames fines as "deductions," which is more legally sound than calling them "penalties." Please advise on the specific amounts and the overall enforceability of this clause under Ghanaian law.
+*   **Non-Solicit & Exclusivity:** The duration and scope of Clauses 6 and 7 should be reviewed for reasonableness to ensure they are legally defensible.
+
+    

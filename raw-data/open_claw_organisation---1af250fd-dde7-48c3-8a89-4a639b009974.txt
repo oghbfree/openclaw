@@ -1,0 +1,18 @@
+brief
+Every morning need structured brief which reviews what I'm working on, yesterday's progress recap, today's top 3 priorities  with time estimates, pending decisions and it needs to be structured and sent me via a report through telegram. So when I wake up I know exactly what to focus on. The system reviews the full day logs, completions, decisions made or quick decsions to unblock work and sends this to a daily file creating automatic journal for your business. I also want this report to include: 
+1. news stories relevant to my interests (Look at Reddit, YouTube and x to find out trends and what people are talking about)
+2. 2-3 Growth Ideas to evolve my businesses or businesses I can create
+3. Tasks I need to complete today
+4. Recommendations for tasks we can complete together today
+
+
+back up
+set an automatic github backup cronjob. everyday at midnight commit and push to https://github.com/oghbfree/openclaw or create a repository on github and you can just say hey open call I need you to back up all of our code into github every day and so this way all of your configuration files, your memory scripts, everything is just pushed to github so that way if anything breaks or you're just running into problems you can instantly roll it back.
+
+ 
+Memory prompt:
+Enable memory flush before compaction and session memory search in my Clawdbot config. Set compaction.memoryFlush.enabled to true and set memorySearch.experimental.sessionMemory to true with sources including both memory and sessions. Apply the config changes.
+
+
+digital precesence
+Based on my digital presence schedule create prompts for content I can then verify, create remotely on a different setup myself using nanobanana,  then send to my manual handler John in Ghana

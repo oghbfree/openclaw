@@ -1,0 +1,11 @@
+---
+title: KRISSI
+updated: 2020-08-24 13:35:58Z
+created: 2020-08-24 13:35:13Z
+---
+
+KRISSI
+19 HOW MUCH
+CRM
+CLIENT>
+ACCOUNT

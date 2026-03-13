@@ -1,0 +1,135 @@
+### **DRAFT: SCHOOL PARTNERSHIP SERVICE AGREEMENT**
+
+**THIS AGREEMENT** is made on **[Date]**
+
+**BETWEEN:**
+
+**[Your Company Name Ltd.]**, a company registered in Ghana with its registered office at **[Your Company Address]** (hereinafter referred to as "**the Service Provider**").
+
+**AND**
+
+**[School Name]**, a school located at **[School Address]** (hereinafter referred to as "**the School**").
+
+Collectively referred to as "the Parties."
+
+**BACKGROUND:**
+
+A. The Service Provider is engaged in the business of providing robotics and coding education programmes.
+B. The School wishes to engage the Service Provider to deliver its mBot Robotics courses to the School's students.
+C. The Parties intend to define the terms under which these services will be provided.
+
+**IT IS HEREBY AGREED AS FOLLOWS:**
+
+**1. INTERPRETATION**
+1.1. The "**Programme**" refers to the specific course (e.g., 10-Week Short Course or Year-Long Programme) as detailed in Annexure A.
+1.2. "**Fees**" refer to the total cost for the Programme as specified in Clause 4.
+1.3. "**IP**" means all intellectual property, including curriculum, software, teaching methods, and manuals.
+
+**2. SERVICES AND TERM**
+2.1. The Service Provider agrees to deliver the Programme to the School's students, in accordance with the schedule, location, and student capacity detailed in **Annexure A**.
+2.2. The initial term of this Agreement shall be for the duration of the Programme as specified in Annexure A. It may be renewed by mutual written agreement of the Parties.
+
+**3. LOGISTICS AND EQUIPMENT**
+3.1. The Service Provider shall provide all necessary equipment, including but not limited to mBot robotics kits, laptops, sensors, and learning materials, required for the delivery of the Programme.
+3.2. The School shall provide a suitable classroom or venue, with adequate seating, lighting, and security, for the duration of the scheduled sessions.
+
+**4. FEES, REVENUE SHARE, AND PAYMENT**
+
+4.1. **Student Enrollment and Fee Collection:**
+    4.1.1. The Service Provider shall be solely responsible for the management of student enrollments and the collection of all enrollment fees ("**Gross Fees**") for the Programme.
+    4.1.2. All Gross Fees shall be collected directly by the Service Provider via its designated payment channels, which include its official website and MTN Mobile Money merchant account (**[Insert Merchant Number]**).
+
+4.2. **Revenue Share:**
+    4.2.1. In consideration for the School’s provision of the venue, promotion of the Programme to its student body, and its partnership hereunder, the Service Provider shall pay the School a revenue share (the "**School Share**").
+    4.2.2. The School Share shall be calculated as **[e.g., fifteen percent (15%)]** of the Net Revenue received by the Service Provider for each student enrolled from the School. For the purposes of this Agreement, "**Net Revenue**" is defined as the Gross Fees, excluding any direct transactional costs, taxes, or third-party payment processing fees.
+
+4.3. **Payment of School Share:**
+    4.3.1. The Service Provider shall provide the School with a detailed statement of enrollments and the calculated School Share within seven (7) days of the conclusion of the enrollment period for each Programme cycle.
+    4.3.2. Payment of the School Share shall be made by the Service Provider to the School via bank transfer or mobile money to a designated account provided by the School in writing. Payment shall be made in full within fourteen (14) days of the commencement of the Programme.
+
+4.4. **Audit Right:**
+    The School shall have the right, once per calendar year and upon thirty (30) days' written notice, to appoint an independent auditor to inspect the Service Provider’s records solely relating to the calculation of the School Share for the preceding twelve (12) months. Such an audit shall be conducted at the School’s expense, unless it reveals an underpayment of more than five percent (5%), in which case the cost of the audit shall be borne by the Service Provider.
+
+4.5. **School's Promotion Obligation:**
+    The School agrees to actively promote the Programme to its parents and students through its standard communication channels, including but not limited to, newsletters, parent-teacher association meetings, and official school announcements. The Parties agree that the enrollment levels and resulting School Share are contingent upon this collaborative promotional effort.
+
+**5. INTELLECTUAL PROPERTY**
+5.1. All IP provided by the Service Provider in connection with this Agreement is and shall remain the sole and exclusive property of the Service Provider.
+5.2. The School is granted a non-exclusive, non-transferable licence to use the IP solely for the purpose of receiving the Programme. The School shall not copy, modify, or distribute any of the Service Provider's IP.
+
+**6. DATA PROTECTION**
+Both Parties shall comply with the provisions of the **Ghana Data Protection Act, 2012 (Act 843)** in relation to any personal data of students, parents, or staff processed under this Agreement. Each Party shall ensure it has appropriate legal grounds for processing such data.
+
+**7. LIMITATION OF LIABILITY**
+7.1. The total aggregate liability of the Service Provider, whether in contract, tort (including negligence), or otherwise, arising out of or in connection with this Agreement shall be limited to the total Fees paid by the School under this Agreement.
+7.2. The Service Provider shall not be liable to the School for any indirect, consequential, or special damages, including loss of profit or revenue.
+
+**8. FORCE MAJEURE**
+Neither Party shall be held liable for any failure or delay in the performance of its obligations under this Agreement if such failure or delay is due to any cause beyond its reasonable control, including but not limited to acts of God, war, terrorism, government regulations, or pandemic. In such an event, obligations shall be suspended for the duration of the force majeure, and if it persists for more than 30 days, either Party may terminate this Agreement.
+
+**9. TERMINATION**
+9.1. Either Party may terminate this Agreement with immediate effect by giving written notice to the other if the other Party commits a material breach of any term of this Agreement and (if such a breach is remediable) fails to remedy that breach within a period of **30 days** after being notified in writing to do so.
+9.2. Upon termination, the School shall immediately pay any outstanding Fees for services already rendered.
+
+**10. GOVERNING LAW AND DISPUTE RESOLUTION**
+10.1. This Agreement shall be governed by and construed in accordance with the laws of Ghana.
+10.2. Any dispute arising from this Agreement shall be settled first through mediation, and if unsuccessful, by the courts of Ghana.
+
+**IN WITNESS WHEREOF,** the parties have executed this Agreement as of the date first above written.
+
+**SIGNED for and on behalf of**
+**[YOUR COMPANY NAME LTD.]**
+____________________________________
+**Signature**
+**Name: [Your Name]**
+**Title: Director**
+
+**SIGNED for and on behalf of**
+**[SCHOOL NAME]**
+____________________________________
+**Signature**
+**Name: [School Representative's Name]**
+**Title: [e.g., Headmaster/Proprietor]**
+
+---
+
+### **ANNEXURE A: PROGRAMME DETAILS**
+
+**1. Programme Type:**
+- [ ] 10-Week Short Course
+- [ ] Year-Long Programme (After-School & Holiday Camp)
+
+**2. Programme Schedule:**
+- Start Date: [Date]
+- End Date: [Date]
+- Session Days & Times: [e.g., Tuesdays & Thursdays, 3:00 PM - 4:00 PM]
+
+**3. Location:**
+- Venue: [School Name/Designated Room]
+- Address: [Full Address of Session Venue]
+
+**4. Student Capacity:**
+- Maximum Number of Students: [e.g., 20]
+
+**5. Total Fees:**
+- Amount: [e.g., GHS 20,000]
+- Payment Due Date: [Date]
+
+---
+### **Key Points for Your Solicitor's Review:**
+
+*   **Payment Security:** Clause 4 is structured to secure payment upfront via a traceable method, critical for your cash flow.
+*   **IP Protection:** Clause 5 is broad and definitive to prevent the school from replicating your core business offering.
+*   **Liability Cap:** Clause 7 is a standard but vital risk-management tool to prevent catastrophic liability.
+*   **Annexure Flexibility:** Using Annexure A allows for the specifics of each school partnership (schedule, fees) to be detailed without altering the main body of the contract.
+*   **Data Protection:** Clause 6 ensures compliance with Act 843, a necessary safeguard.
+
+
+
+   
+
+    Liability waivers.
+
+    Fee structure and payment schedule to you.
+
+    Data sharing agreements (for student rosters).
